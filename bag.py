@@ -1,4 +1,5 @@
-# Submitter: sue4(Su, Emily)
+# Author: Emily Su
+# Last Revised: February 2022
 
 from collections import defaultdict
 from goody import type_as_str
